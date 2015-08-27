@@ -1,10 +1,9 @@
 
-<div class="page-lead" style="background-image:url({{ site.url }}/images/page_lead_background_1600x800.jpg)">
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ site.page_lead_background }})">
       <div class="wrap page-lead-content">
         <h1>{{ site.title }}</h1>
         <h2>{{ site.description }}</h2>
-        <!--
-        <a href="//mmistakes.github.io/skinny-bones-jekyll/getting-started/" class="btn-inverse">Start Using Skinny Bones</a> &nbsp; or &nbsp; <a href="https://github.com/mmistakes/skinny-bones-jekyll" class="btn-inverse">View on GitHub</a>
-          -->
+        <a href="{{ site.url }}/posts/" class="btn-inverse">Posts</a> &nbsp; or &nbsp;
+        <a href="{{ site.url }}/about/" class="btn-inverse">About</a>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
