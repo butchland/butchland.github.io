@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: About
+- title: "About Me"
   url: /about/
-  excerpt: "Why this blog"
+  excerpt: "All about me"
   image: teaser_offcanvas_300x200.png
 
-- title: Posts
+- title: "My Posts"
   url: /posts/
-  excerpt: "Thoughts and Musings"
+  excerpt: "My Thoughts and Musings"
   image: teaser_offcanvas_300x200.png

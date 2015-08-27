@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Posts"
+title: "My Posts"
 date:
 modified:
 excerpt:

@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "About"
+title: "About Me"
 date: 
 modified:
-excerpt: "Why this blog? Because..."
+excerpt: "All about me"
 image:
   feature: about_feature_1024x256.jpg
   teaser: about_teaser_400x250.png
