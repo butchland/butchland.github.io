@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Posts"
-date: 
+date:
 modified:
 excerpt:
 image:
