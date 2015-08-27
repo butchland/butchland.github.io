@@ -6,8 +6,8 @@ categories: posts
 excerpt: "Why I'm rebooting my blog"
 tags: [misc]
 image:
-  feature:
-  teaser:
+  feature: post_feature_1024x256.jpg
+  teaser: post_teaser_400x250.png
   thumb:
 date: 2015-08-27T17:19:51+08:00
 ---
