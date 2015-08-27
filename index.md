@@ -1,7 +1,15 @@
 ---
-layout: home
+layout: homearchive
 permalink: /
 title: "Latest Posts"
+date:
+modified:
+excerpt:
+image:
+  feature:
+  teaser:
+  thumb:
+ads: false
 ---
 
 <div class="tiles">
