@@ -3,9 +3,9 @@
 - title: About
   url: /about/
   excerpt: "Why this blog"
-  image:
+  image: teaser_offcanvas_300x200.png
 
 - title: Posts
   url: /posts/
-  excerpt:
-  image:
+  excerpt: "Thoughts and Musings"
+  image: teaser_offcanvas_300x200.png
