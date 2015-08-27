@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Out of Plato's Cave
+title: Memesplicer Reboot
 description: The personal blog of Butch Landingin
 logo: logo_120x120.png# 120x120 px default image used for Twitter summary card
 teaser: teaser_400x250.png # 400x250 px default teaser image used in image archive grid
@@ -29,7 +29,7 @@ owner:
     ad-client: 
     ad-slot: 
   bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: biophoto_160x160.png # 160x160 px image for author byline
 disqus-shortname:
 
 
