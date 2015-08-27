@@ -2,9 +2,9 @@
 layout: article
 title: "Blogging Rebooted"
 modified:
-categories: 
-excerpt:
-tags: []
+categories: posts
+excerpt: "Why I'm rebooting my blog"
+tags: [misc]
 image:
   feature:
   teaser:
