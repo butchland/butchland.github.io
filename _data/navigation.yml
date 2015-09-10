@@ -1,0 +1,11 @@
+# Site navigation links
+
+- title: "About Me"
+  url: /about/
+  excerpt: "All about me"
+  image: teaser_offcanvas_300x200.png
+
+- title: "My Posts"
+  url: /posts/
+  excerpt: "My Thoughts and Musings"
+  image: teaser_offcanvas_300x200.png
