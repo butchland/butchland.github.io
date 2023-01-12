@@ -1,1 +1,1 @@
-Sitemap: https://github.com/butchland/butchland.github.io/sitemap.xml
+Sitemap: https://butchland.github.io/sitemap.xml

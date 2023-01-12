@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Because I don’t know what to call it yet",
-    "section": "",
-    "text": "Revival and Renewal\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2023\n\n\nButch Landingin\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nButch Landingin\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -14,11 +7,11 @@
     "text": "My current interests are in applying data science, machine learning and geospatial applications for sustainability solutions.\nOr at least that’s what I tell myself, hahah."
   },
   {
-    "objectID": "posts/revival-and-renewal/index.html",
-    "href": "posts/revival-and-renewal/index.html",
-    "title": "Revival and Renewal",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Because I don’t know what to call it yet",
     "section": "",
-    "text": "This is my umpteenth time to refresh my blog (or rather, revive – its been dead for the last two years).\n\nThis time using Quarto.\nLet’s see – in the past I’ve used Jekyll (sometime until 2015) and Hugo (until recently).\nI like it, its simple but still has enough features to match many blog site apps.\nAs for the image, guess what: it’s from Stable Diffusion Web, using this prompt “sunrise, dawn of a new age, hyperrealistic, horizon, photorealism”"
+    "text": "Revival and Renewal\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2023\n\n\nButch Landingin\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nButch Landingin\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -26,5 +19,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "Its a new year! And this is the first post in my brand new shiny Quarto blog. Welcome!\n\nNot much to say for now. (Yeah, the pic’s also from Stable Diffusion Web, not as nice as the Sunrise pic, but hey – it only takes a few minutes to generate1 , plus I’m pretty sure its not copied from somewhere else.)\nHave you eaten yet?\n\n\n\n\nFootnotes\n\n\nPrompt:“busy office table, photorealistic, with a laptop and mouse on the side, wood panel, beautiful, restful, hyperrealistic coffee mug”.\nNegative prompt: “stationary, pen, cell phone”↩︎"
+  },
+  {
+    "objectID": "posts/revival-and-renewal/index.html",
+    "href": "posts/revival-and-renewal/index.html",
+    "title": "Revival and Renewal",
+    "section": "",
+    "text": "This is my umpteenth time to refresh my blog (or rather, revive – its been dead for the last two years).\n\nThis time using Quarto.\nLet’s see – in the past I’ve used Jekyll (sometime until 2015) and Hugo (until recently).\nI like it, its simple but still has enough features to match many blog site apps.\nAs for the image, guess what: it’s from Stable Diffusion Web, using this prompt “sunrise, dawn of a new age, hyperrealistic, horizon, photorealism”"
   }
 ]
