@@ -1,5 +1,5 @@
 ---
-title: "butchland.github.io"
+title: "Because I don't know what to call it yet"
 listing:
   contents: posts
   sort: "date desc"
