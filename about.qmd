@@ -1,0 +1,20 @@
+---
+title: "About Me"
+image: https://avatars.githubusercontent.com/u/70889?s=400&v=4
+about:
+  template: jolla
+  links:
+    - icon: mastodon
+      text: Mastodon
+      href: https://fosstodon.org/@butchland
+    - icon: github
+      text: Github
+      href: https://github.com/butchland
+
+---
+
+My current interests are in applying data science, machine learning 
+and geospatial applications for sustainability solutions.
+
+Or at least that's what I tell myself, hahah.
+

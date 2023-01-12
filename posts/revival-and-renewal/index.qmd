@@ -1,0 +1,21 @@
+---
+title: "Revival and Renewal"
+author: "Butch Landingin"
+date: "2023-01-12"
+categories: [news]
+image: "sunrise.jpg"
+---
+
+This is my umpteenth time to refresh my blog (or rather, *revive* -- its been dead for the last two years). 
+
+![](sunrise.jpg)
+
+
+This time using [Quarto](https://quarto.org/). 
+
+Let's see -- in the past I've used Jekyll (sometime until 2015) and Hugo (until recently). 
+
+I like it, its simple but still has enough features to match many blog site apps.
+
+As for the image, guess what: it's from [Stable Diffusion Web](https://stablediffusionweb.com/#demo), using this prompt "sunrise, dawn of a new age, hyperrealistic, horizon, photorealism"
+

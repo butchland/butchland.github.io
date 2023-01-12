@@ -1,0 +1,21 @@
+---
+title: "Welcome To My Blog"
+author: "Butch Landingin"
+date: "2023-01-09"
+categories: [news]
+---
+
+Its a new year! 
+And this is the first post in my brand new shiny Quarto blog. Welcome!
+
+![](office-wood-panel.jpg)
+
+Not much to say for now. (Yeah, the pic's also from [Stable Diffusion Web](https://bootswatch.com/cosmo/), not as nice as the 
+Sunrise pic, but hey -- it only takes a few minutes to generate[^longnote] , plus I'm pretty sure its not 
+copied from somewhere else.)
+ 
+Have you eaten yet?
+
+[^longnote]: Prompt:"busy office table, photorealistic, with a laptop and mouse on the side, wood panel, beautiful, restful, hyperrealistic coffee mug".
+
+    Negative prompt: "stationary, pen, cell phone"
