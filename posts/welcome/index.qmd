@@ -10,9 +10,8 @@ And this is the first post in my brand new shiny Quarto blog. Welcome!
 
 ![](office-wood-panel.jpg)
 
-Not much to say for now. (Yeah, the pic's also from [Stable Diffusion Web](https://bootswatch.com/cosmo/), not as nice as the 
-Sunrise pic, but hey -- it only takes a few minutes to generate[^longnote] , plus I'm pretty sure its not 
-copied from somewhere else.)
+Not much to say for now. (Yeah, the pic's also from [Stable Diffusion Web](https://stablediffusionweb.com/#demo), not as nice as the 
+[Sunrise pic](../revival-and-renewal/sunrise.jpg), but hey -- it only takes a few minutes to generate[^longnote] , plus I'm pretty sure it's not copied from somewhere else because I created it myself.)
  
 Have you eaten yet?
 
