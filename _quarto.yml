@@ -10,6 +10,14 @@ website:
         href: https://github.com/butchland
       - icon: mastodon
         href: https://fosstodon.org/@butchland
+  page-footer:
+    background: light
+    left: "Copyright 2023, Butch Landingin"
+    right:
+      - icon: github
+        href: https://github.com/butchland
+      - icon: mastodon
+        href: https://fosstodon.org/@butchland
 
 format:
   html:
