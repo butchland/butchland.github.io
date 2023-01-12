@@ -18,7 +18,7 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "Its a new year! And this is the first post in my brand new shiny Quarto blog. Welcome!\n\nNot much to say for now. (Yeah, the pic’s also from Stable Diffusion Web, not as nice as the Sunrise pic, but hey – it only takes a few minutes to generate1 , plus I’m pretty sure its not copied from somewhere else.)\nHave you eaten yet?\n\n\n\n\nFootnotes\n\n\nPrompt:“busy office table, photorealistic, with a laptop and mouse on the side, wood panel, beautiful, restful, hyperrealistic coffee mug”.\nNegative prompt: “stationary, pen, cell phone”↩︎"
+    "text": "Its a new year! And this is the first post in my brand new shiny Quarto blog. Welcome!\n\nNot much to say for now. (Yeah, the pic’s also from Stable Diffusion Web, not as nice as the Sunrise pic, but hey – it only takes a few minutes to generate1 , plus I’m pretty sure it’s not copied from somewhere else because I created it myself.)\nHave you eaten yet?\n\n\n\n\nFootnotes\n\n\nPrompt:“busy office table, photorealistic, with a laptop and mouse on the side, wood panel, beautiful, restful, hyperrealistic coffee mug”.\nNegative prompt: “stationary, pen, cell phone”↩︎"
   },
   {
     "objectID": "posts/revival-and-renewal/index.html",
