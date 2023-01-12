@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "butchland.github.io"
+  title: "Butch Landingin's Blog"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/butchland
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/butchland
 format:
   html:
     theme: cosmo
