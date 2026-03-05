@@ -1,0 +1,13 @@
+HORIZON_URL="https://horizon-testnet.stellar.org"
+
+ACCOUNTS = [
+    "GB5JOJSEY5DPRMUZ2LRNXOSS7F43STBBZPFWCSAJUVRAU4A27IZJH3ZG"
+]
+
+[[PRINCIPALS]]
+name = "Butch Landingin"
+email = "butchland@gmail.com"
+
+[DOCUMENTATION]
+ORG_NAME="Butch Landingin"
+ORG_URL="https://butchland.github.io"
